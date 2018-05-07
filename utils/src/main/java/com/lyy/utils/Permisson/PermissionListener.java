@@ -1,4 +1,4 @@
-package com.contact.huadao.myutilsproject.Permisson;
+package com.lyy.utils.Permisson;
 
 import java.util.List;
 
