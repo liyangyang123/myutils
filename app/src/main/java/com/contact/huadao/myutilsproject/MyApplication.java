@@ -16,7 +16,6 @@ public class MyApplication extends Application{
         super.onCreate();
         MLogUtils.init(true);
 
-
     }
 
     public static MyApplication getAppInstance(){

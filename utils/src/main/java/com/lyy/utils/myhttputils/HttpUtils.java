@@ -149,7 +149,6 @@ public class HttpUtils {
         });
     }
 
-
     /**
      * 解析一个类上面的class信息
      * @param object

@@ -1,4 +1,4 @@
-package com.lyy.utils.mypermisson;
+package com.contact.huadao.myutilsproject.Permisson;
 
 import android.app.Activity;
 
